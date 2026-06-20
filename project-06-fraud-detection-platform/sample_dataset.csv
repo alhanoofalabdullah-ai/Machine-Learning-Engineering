@@ -1,0 +1,6 @@
+TransactionID,CustomerID,TransactionAmount,TransactionType,Location,DeviceType,AccountAge,RiskScore,FraudStatus
+10001,5001,2500,Transfer,Riyadh,Mobile,5,22,0
+10002,5002,18000,Transfer,Unknown,Web,1,91,1
+10003,5003,700,Purchase,Jeddah,Mobile,4,15,0
+10004,5004,25000,Transfer,Unknown,VPN,1,97,1
+10005,5005,1200,Purchase,Dammam,Mobile,6,18,0
