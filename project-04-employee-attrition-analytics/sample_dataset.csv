@@ -1,0 +1,6 @@
+EmployeeID,Age,Department,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,Overtime,Attrition
+1001,35,IT,System Analyst,18000,7,4,3,No,0
+1002,29,Sales,Sales Executive,11000,3,2,2,Yes,1
+1003,42,Finance,Finance Manager,25000,12,4,4,No,0
+1004,31,HR,HR Specialist,13000,4,3,2,Yes,1
+1005,45,Operations,Operations Manager,22000,10,4,3,No,0
