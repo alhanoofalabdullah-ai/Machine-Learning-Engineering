@@ -1,0 +1,6 @@
+ReviewID,CustomerID,ReviewText,Rating,Sentiment
+1,1001,"Excellent service and very fast delivery",5,Positive
+2,1002,"The product quality is poor",1,Negative
+3,1003,"Average experience overall",3,Neutral
+4,1004,"Amazing support team and great service",5,Positive
+5,1005,"Late delivery and bad packaging",2,Negative
