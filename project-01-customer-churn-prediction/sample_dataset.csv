@@ -1,0 +1,6 @@
+CustomerID,Gender,Age,ContractType,MonthlyCharges,Tenure,Churn
+1001,Male,35,Monthly,250,12,0
+1002,Female,42,Yearly,420,36,0
+1003,Male,29,Monthly,180,6,1
+1004,Female,51,Yearly,500,48,0
+1005,Male,25,Monthly,150,3,1
