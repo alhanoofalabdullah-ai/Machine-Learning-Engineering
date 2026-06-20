@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 08 customer segmentation"
+
+git push
