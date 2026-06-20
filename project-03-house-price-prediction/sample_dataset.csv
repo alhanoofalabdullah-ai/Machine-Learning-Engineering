@@ -1,0 +1,6 @@
+PropertyID,Location,PropertyType,Area,Bedrooms,Bathrooms,PropertyAge,ParkingSpaces,Price
+1001,Riyadh,Apartment,160,3,2,5,1,850000
+1002,Jeddah,Villa,350,5,4,8,2,1800000
+1003,Dammam,Apartment,120,2,2,3,1,620000
+1004,Riyadh,Villa,420,6,5,10,3,2500000
+1005,Jeddah,Townhouse,240,4,3,6,2,1350000
