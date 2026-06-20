@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+
+  enterprise-ai:
+
+    build: .
+
+    container_name: enterprise-ai-platform
+
+    ports:
+      - "8000:8000"
+
+    restart: always
