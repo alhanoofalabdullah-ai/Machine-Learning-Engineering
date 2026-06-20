@@ -1,0 +1,6 @@
+PatientID,Age,Gender,BloodPressure,Cholesterol,Glucose,BMI,SmokingStatus,FamilyHistory,DiseaseStatus
+1001,Male,45,130,210,110,27,No,Yes,0
+1002,Female,58,160,280,145,33,Yes,Yes,1
+1003,Male,35,120,180,95,24,No,No,0
+1004,Female,62,170,300,155,35,Yes,Yes,1
+1005,Male,50,145,240,125,29,No,Yes,0
