@@ -1,0 +1,6 @@
+CustomerID,Age,Gender,AnnualIncome,SpendingScore,TotalPurchases,CustomerLifetimeValue
+1001,32,Female,120000,85,42,35000
+1002,28,Male,85000,62,21,14000
+1003,45,Female,220000,95,88,92000
+1004,39,Male,65000,40,15,8500
+1005,51,Female,180000,78,54,52000
