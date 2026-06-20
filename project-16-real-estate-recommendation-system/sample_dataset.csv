@@ -1,0 +1,6 @@
+PropertyID,PropertyType,City,District,Price,Bedrooms,Bathrooms,Area,ParkingSpaces
+1001,Apartment,Riyadh,Al Malqa,850000,3,2,180,1
+1002,Villa,Riyadh,Al Narjis,2200000,5,5,420,3
+1003,Apartment,Jeddah,Al Rawdah,920000,3,3,195,2
+1004,Townhouse,Dammam,Al Faisaliyah,1250000,4,3,260,2
+1005,Villa,Riyadh,Hittin,3100000,6,6,550,4
