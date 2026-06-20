@@ -1,0 +1,6 @@
+DocumentID,DocumentTitle,DocumentContent,Department,Category
+1001,IT Security Policy,"This document defines cybersecurity policies and controls.",IT,Policy
+1002,Employment Contract,"This contract defines employment terms and conditions.",HR,Contract
+1003,Project Status Report,"Monthly progress report for project execution.",PMO,Report
+1004,Technical Procedure,"Procedure for server backup and recovery.",IT,Procedure
+1005,Financial Statement,"Annual financial performance report.",Finance,Financial Document
