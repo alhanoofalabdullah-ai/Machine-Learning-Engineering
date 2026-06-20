@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 17 supply chain intelligence platform"
+
+git push
