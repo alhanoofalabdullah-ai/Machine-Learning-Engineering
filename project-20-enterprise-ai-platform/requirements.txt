@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+torch
+transformers
+xgboost
+mlflow
+fastapi
+uvicorn
+flask
+joblib
+matplotlib
