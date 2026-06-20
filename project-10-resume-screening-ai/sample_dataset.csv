@@ -1,0 +1,6 @@
+CandidateID,CandidateName,Skills,ExperienceYears,Education,HiringDecision,ResumeText
+1001,Ahmed Ali,"Python,SQL,Power BI",5,Bachelor,1,"Experienced data analyst with strong SQL and Python skills."
+1002,Sara Mohammed,"Excel,Administration",2,Diploma,0,"Administrative assistant with office management experience."
+1003,Khalid Hassan,"Machine Learning,Python,TensorFlow",7,Master,1,"AI engineer with machine learning deployment experience."
+1004,Noura Salem,"HR,Recruitment",4,Bachelor,0,"HR specialist with recruitment and onboarding experience."
+1005,Fahad Ahmed,"Cybersecurity,SIEM,Python",6,Bachelor,1,"Cybersecurity engineer with incident response experience."
