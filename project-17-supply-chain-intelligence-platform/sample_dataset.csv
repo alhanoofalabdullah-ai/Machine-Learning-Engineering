@@ -1,0 +1,6 @@
+ShipmentID,WarehouseID,SupplierID,ProductCategory,OrderQuantity,TransportationCost,InventoryLevel,LeadTime,DeliveryTime
+1001,WH-01,SUP-101,Electronics,500,1200,800,7,6
+1002,WH-02,SUP-102,Furniture,300,900,500,10,9
+1003,WH-01,SUP-103,Accessories,700,1500,1200,5,4
+1004,WH-03,SUP-104,Electronics,250,700,400,12,11
+1005,WH-02,SUP-105,Furniture,450,1100,650,8,7
