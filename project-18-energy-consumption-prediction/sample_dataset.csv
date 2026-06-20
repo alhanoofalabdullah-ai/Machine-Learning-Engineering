@@ -1,0 +1,6 @@
+BuildingID,Date,Temperature,Humidity,Occupancy,EquipmentLoad,PeakHour,CarbonEmissions,EnergyConsumption
+BLD-01,2025-01-01,31,45,120,75,1,180,920
+BLD-02,2025-01-02,28,50,85,60,0,130,650
+BLD-03,2025-01-03,35,42,200,95,1,240,1350
+BLD-04,2025-01-04,30,47,110,70,0,160,840
+BLD-05,2025-01-05,33,40,180,88,1,220,1200
