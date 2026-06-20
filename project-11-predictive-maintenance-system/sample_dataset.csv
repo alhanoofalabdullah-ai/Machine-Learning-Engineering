@@ -1,0 +1,6 @@
+EquipmentID,Temperature,Vibration,Pressure,RotationSpeed,Voltage,RuntimeHours,MaintenanceHistory,FailureStatus
+EQ-1001,72,0.30,110,1500,220,500,2,0
+EQ-1002,95,0.85,145,1800,210,1200,5,1
+EQ-1003,68,0.22,105,1450,225,300,1,0
+EQ-1004,101,0.92,150,1900,205,1500,6,1
+EQ-1005,75,0.35,115,1550,218,650,2,0
