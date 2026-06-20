@@ -1,0 +1,6 @@
+ProductID,ProductCategory,StoreLocation,SalesDate,UnitsSold,Promotion,Holiday,InventoryLevel,DemandQuantity
+1001,Electronics,Riyadh,2025-01-01,120,1,0,500,135
+1002,Furniture,Jeddah,2025-01-02,85,0,0,300,92
+1003,Accessories,Dammam,2025-01-03,160,1,0,700,175
+1004,Electronics,Riyadh,2025-01-04,210,1,1,450,235
+1005,Furniture,Jeddah,2025-01-05,95,0,0,280,101
