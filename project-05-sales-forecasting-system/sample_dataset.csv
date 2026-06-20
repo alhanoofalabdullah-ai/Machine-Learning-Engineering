@@ -1,0 +1,6 @@
+Date,ProductCategory,Region,UnitsSold,Revenue,Promotion,Holiday
+2025-01-01,Electronics,Riyadh,120,240000,1,0
+2025-01-02,Electronics,Jeddah,95,190000,0,0
+2025-01-03,Furniture,Riyadh,80,160000,1,0
+2025-01-04,Accessories,Dammam,140,98000,0,0
+2025-01-05,Electronics,Riyadh,150,300000,1,1
