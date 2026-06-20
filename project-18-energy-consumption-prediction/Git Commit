@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 18 energy consumption prediction"
+
+git push
